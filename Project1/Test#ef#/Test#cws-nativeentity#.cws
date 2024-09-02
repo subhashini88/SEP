@@ -25,9 +25,6 @@
 			id="00505601-4588-A1EF-9A3B-74C63A0B8120"
 		/>
 		<uri
-			id="00505601-4588-A1EF-9A3B-74C63A060120"
-		/>
-		<uri
 			id="00505601-4588-A1EF-9A3B-74C63A028120"
 		/>
 	</BuildingBlocks>
@@ -606,101 +603,6 @@
 				</Property>
 			</Properties>
 		</PropertyBuildingBlock>
-		<TestBuildingBlock
-			type="com.cordys.entity.buildingblocks.testbb.TestBuildingBlock"
-			RuntimeDocumentID="00505601-4588-A1EF-9A3B-74C63A064120">
-			<DocumentID>00505601-4588-A1EF-9A3B-74C63A060120</DocumentID>
-			<Name>TestBB</Name>
-			<Description>TestBB</Description>
-			<CreatedBy>sysadmin</CreatedBy>
-			<CreationDate>2024-09-02T05:41:34.115</CreationDate>
-			<Notes/>
-			<Property1></Property1>
-			<Property2></Property2>
-			<Entity>
-				<uri
-					id="00505601-4588-A1EF-9A3B-4BC09A77C120"
-				/>
-			</Entity>
-			<Original/>
-			<UsedProperty/>
-			<defaultProperties>
-				<PropertyObjectPath
-					type="com.cordys.entity.core.objectpath.PropertyObjectPath"
-					RuntimeDocumentID="00505601-4588-A1EF-9A3B-74C63A05C120">
-					<DocumentID>00505601-4588-A1EF-9A3B-74C63A058120</DocumentID>
-					<Name>00505601-4588-A1EF-9A3B-74C63A058120</Name>
-					<Description>00505601-4588-A1EF-9A3B-74C63A058120</Description>
-					<CreatedBy>sysadmin</CreatedBy>
-					<CreationDate>2024-09-02T05:41:34.113</CreationDate>
-					<Notes/>
-					<NumberOfIntermediateRelationships>0</NumberOfIntermediateRelationships>
-					<IntermediateRelationships/>
-					<Object>
-						<uri
-							id="00505601-4588-A1EF-9A3B-74C63A060120"
-						/>
-					</Object>
-					<ObjectOwner>
-						<uri
-							id="00505601-4588-A1EF-9A3B-74C63A060120"
-						/>
-					</ObjectOwner>
-					<PathBegin>
-						<uri
-							id="00505601-4588-A1EF-9A3B-4BC09A77C120"
-						/>
-					</PathBegin>
-					<PathEnd>
-						<uri
-							id="00505601-4588-A1EF-9A3B-74C63A0B0120"
-						/>
-					</PathEnd>
-					<RootOwner>
-						<uri
-							id="00505601-4588-A1EF-9A3B-4BC09A77C120"
-						/>
-					</RootOwner>
-				</PropertyObjectPath>
-				<PropertyObjectPath
-					type="com.cordys.entity.core.objectpath.PropertyObjectPath"
-					RuntimeDocumentID="00505601-4588-A1EF-9A3B-74C63A054120">
-					<DocumentID>00505601-4588-A1EF-9A3B-74C63A050120</DocumentID>
-					<Name>00505601-4588-A1EF-9A3B-74C63A050120</Name>
-					<Description>00505601-4588-A1EF-9A3B-74C63A050120</Description>
-					<CreatedBy>sysadmin</CreatedBy>
-					<CreationDate>2024-09-02T05:41:34.11</CreationDate>
-					<Notes/>
-					<NumberOfIntermediateRelationships>0</NumberOfIntermediateRelationships>
-					<IntermediateRelationships/>
-					<Object>
-						<uri
-							id="00505601-4588-A1EF-9A3B-74C63A060120"
-						/>
-					</Object>
-					<ObjectOwner>
-						<uri
-							id="00505601-4588-A1EF-9A3B-74C63A060120"
-						/>
-					</ObjectOwner>
-					<PathBegin>
-						<uri
-							id="00505601-4588-A1EF-9A3B-4BC09A77C120"
-						/>
-					</PathBegin>
-					<PathEnd>
-						<uri
-							id="00505601-4588-A1EF-9A3B-74C63A088120"
-						/>
-					</PathEnd>
-					<RootOwner>
-						<uri
-							id="00505601-4588-A1EF-9A3B-4BC09A77C120"
-						/>
-					</RootOwner>
-				</PropertyObjectPath>
-			</defaultProperties>
-		</TestBuildingBlock>
 		<TitleBuildingBlock
 			type="com.cordys.entity.buildingblocks.title.TitleBuildingBlock"
 			typeVersion="EACBE541-554B-440E-9AEA-2D8B9EDD5A26"

@@ -16,7 +16,25 @@
 			id="00505601-4588-A1EF-9A3B-4BC09A75C120"
 		/>
 	</BuildingBlock>
-	<DisplayName/>
+	<DisplayName>
+		<TranslatableText
+			type="com.cordys.translation.TranslatableText"
+			typeVersion="FC58ED95-5D9A-4D1D-9A84-8D03E2528B67"
+			RuntimeDocumentID="00505601-4588-A1EF-9A3B-7FCB34564120">
+			<DocumentID>00505601-4588-A1EF-9A3B-7FCB34560120</DocumentID>
+			<Name>00505601-4588-A1EF-9A3B-7FCB34560120</Name>
+			<Description>00505601-4588-A1EF-9A3B-7FCB34560120</Description>
+			<CreatedBy>sysadmin</CreatedBy>
+			<CreationDate>2024-09-02T05:44:32.009</CreationDate>
+			<Notes/>
+			<DeveloperText>Create</DeveloperText>
+			<Identifier>
+				<uri
+					id="00505601-4588-A1EF-9A3B-7FCB34568120"
+				/>
+			</Identifier>
+		</TranslatableText>
+	</DisplayName>
 	<FormComponents>
 		<FormComponent
 			type="com.cordys.entity.buildingblocks.form.FormComponent"
