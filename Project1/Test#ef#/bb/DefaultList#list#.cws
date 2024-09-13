@@ -24,7 +24,7 @@
 	<IsReadOnlyView>false</IsReadOnlyView>
 	<ItemOpenMode>0</ItemOpenMode>
 	<LayoutId>00505601-4588-A1EF-9A3B-74C63A004120</LayoutId>
-	<MaxCount>200</MaxCount>
+	<MaxCount>100</MaxCount>
 	<SecuredByEntity>false</SecuredByEntity>
 	<ShowConditionalCountInList>false</ShowConditionalCountInList>
 	<ShowCreateButton>true</ShowCreateButton>
